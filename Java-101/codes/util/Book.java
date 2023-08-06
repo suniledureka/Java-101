@@ -1,6 +1,6 @@
 package co.edureka.java.util;
 
-public class Book  {
+public class Book {
 	private int bookId;
 	private String bookTitle;
 	
